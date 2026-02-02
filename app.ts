@@ -1,10 +1,3 @@
-// converting TS to JS 
-// "C:\Program Files\nodejs\node.exe" "C:\Users\Zero\AppData\Roaming\npm\node_modules\typescript\bin\tsc" app.ts
-
-// show JS output
-// "C:\Program Files\nodejs\node.exe" app.js
-
-
 // app.ts
 let myname: string = "mesh-zoz";
 myname = "zoz"
